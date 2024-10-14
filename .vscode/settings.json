@@ -1,0 +1,12 @@
+{
+  "search.exclude": {
+    "static": true,
+    "build": true,
+    "node_modules": true,
+    "patches": true,
+    "publish": true
+  },
+  "git.ignoreLimitWarning": true,
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "findUnusedExports.detectCircularImports": true
+}
